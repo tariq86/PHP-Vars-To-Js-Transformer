@@ -1,7 +1,10 @@
 {
     "name": "laracasts/utilities",
     "description": "Transform your PHP to JavaScript",
-    "keywords": ["laravel", "javascript"],
+    "keywords": [
+        "laravel",
+        "javascript"
+    ],
     "license": "MIT",
     "authors": [
         {
@@ -10,8 +13,8 @@
         }
     ],
     "require": {
-        "php": ">=5.6.0|>=7.0.0",
-        "illuminate/support": "^5.0|^6.0|^7.0"
+        "php": ">=5.5.0|>=7.2.5",
+        "illuminate/support": "^5.0|^6.0|^7.0|^8.0"
     },
     "require-dev": {
         "phpspec/phpspec": "~2.0"
